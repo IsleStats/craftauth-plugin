@@ -1,0 +1,8 @@
+name: craftauth-plugin
+version: '${version}'
+
+main: net.islestats.craftauthPlugin.CraftauthPlugin
+api-version: '26.3'
+load: POSTWORLD
+
+authors: [Imabanana80, Lucism]
